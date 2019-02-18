@@ -3,6 +3,10 @@
 
 The Newton FAQ is a community resource of commonly asked questions related to the Apple Newton platform.
 
+## Current Version
+
+[splorp.github.io/newton-faq](https://splorp.github.io/newton-faq)
+
 ## The Backstory
 
 First published in 1999, the Newton FAQ was a project led by [Steve Weyer](http://communicrossings.com/html/newton/index.htm), Peter Rand, [Sean Luke](http://www.cs.gmu.edu/~sean/), and [Paul Guyot](http://www.kallisys.com/). It was updated and posted to various websites and newsgroups on a monthly schedule. The last edition of the Newton FAQ was published in March 2003, shortly after [Daniel Padilla](http://dev.newtontalk.net/dpadilla/) handed the reins over to [Grant Hutchinson](http://splorp.com/). Grant worked on compiling and editing a significant number of updates, hoping to release a revised FAQ in November 2003. Unfortunately, that never happened.
@@ -19,10 +23,9 @@ With all this in mind, the current state of the Newton FAQ still leaves a lot to
 
 At least it has a better future.
 
-
 ## Why GitHub?
 
 GitHub is a simple way to host, share, and apply the “peace of mind” of version control to all sorts of code. Since the Newton FAQ is written in HTML and will undoubtedly go through hundreds of changes, updates, and iterations over time — GitHub seemed like a perfect place to maintain it.
 
 
-Copyright © 1999–2014 The Newton FAQ Group
+Copyright © 1999–2019 The Newton FAQ Group
